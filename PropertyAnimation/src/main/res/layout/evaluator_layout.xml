@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.myapplication.customview.evaluator.EvaluatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/btn"
+        android:text="rgb_evaluator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <com.example.myapplication.customview.evaluator.Evaluator1
+        android:id="@+id/evaluator1"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"/>
+
+    <Button
+        android:id="@+id/btn2"
+        android:text="hsv_evaluator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <com.example.myapplication.customview.evaluator.Evaluator1
+        android:id="@+id/evaluator2"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"/>
+
+    <Button
+        android:id="@+id/btn3"
+        android:text="point_evaluator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <com.example.myapplication.customview.evaluator.Evaluator1
+        android:id="@+id/evaluator3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</com.example.myapplication.customview.evaluator.EvaluatorLayout>
