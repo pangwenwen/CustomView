@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         viewList.add(inflater.inflate(R.layout.property_holder_view,null));
         viewList.add(inflater.inflate(R.layout.animation_set_view,null));
         viewList.add(inflater.inflate(R.layout.keyframe_layout,null));
+        viewList.add(inflater.inflate(R.layout.spring_layout,null));
 
         stringList.add("ProjecAnimaT1");
         stringList.add("TranslatXYZ");
@@ -48,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
         stringList.add("PropertyValuesHolder");
         stringList.add("AnimationSet");
         stringList.add("KeyFrameLayout");
+        stringList.add("Spring");
 
         final ViewPager viewPager = (ViewPager) findViewById(R.id.viewpager);
         viewPager.setAdapter(new PagerAdapter() {
@@ -78,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        viewPager.setCurrentItem(9);
+        viewPager.setCurrentItem(10);
 
     }
 }
