@@ -1,0 +1,7 @@
+#Thu Sep 28 16:42:38 CST 2017
+base.0=D\:\\android\\workspace\\CustomCamera\\ColorMatrixT\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15434fd9b7f1ec084af79902767630f2e5e59c11
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\android\\workspace\\CustomCamera\\ColorMatrixT\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_385a0964a7821579de8422a33c7d5449684f0c59\\classes.dex
+base.1=D\:\\android\\workspace\\CustomCamera\\ColorMatrixT\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_385a0964a7821579de8422a33c7d5449684f0c59
+file.0=D\:\\android\\workspace\\CustomCamera\\ColorMatrixT\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15434fd9b7f1ec084af79902767630f2e5e59c11\\classes.dex

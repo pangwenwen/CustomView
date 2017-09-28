@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\workspace\\CustomCamera\\ColorMatrixT\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\android\\workspace\\CustomCamera\\ColorMatrixT\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\CustomCamera\\ColorMatrixT\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\android\\workspace\\CustomCamera\\ColorMatrixT\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
